@@ -1,0 +1,9 @@
+sample_id,text,expected,prediction,positive_prob,confidence,model_version,hf_model_id
+new_001,The canteen dosa at Ramaiah is crispy and the chutney is fresh every single morning.,positive,positive,0.9964,0.9964,2,textattack/bert-base-uncased-SST-2
+new_002,I waited forty minutes for the bus to Mathikere and it never showed up.,negative,negative,0.0038,0.9962,2,textattack/bert-base-uncased-SST-2
+new_003,"The MLflow UI looked confusing at first, but once I understood runs and aliases it made a lot of sense.",positive,positive,0.676,0.676,2,textattack/bert-base-uncased-SST-2
+new_004,"Oh great, another power cut right before the lab submission deadline.",negative,negative,0.099,0.901,2,textattack/bert-base-uncased-SST-2
+new_005,The movie was not as bad as the critics made it sound.,positive,positive,0.9842,0.9842,2,textattack/bert-base-uncased-SST-2
+new_006,The new phone's battery barely lasts half a day and it heats up while charging.,negative,negative,0.0046,0.9954,2,textattack/bert-base-uncased-SST-2
+new_007,"Honestly, the hostel food this semester has been surprisingly good.",positive,positive,0.9985,0.9985,2,textattack/bert-base-uncased-SST-2
+new_008,"The plot had potential, but the second half dragged on and the ending made no sense.",negative,negative,0.001,0.999,2,textattack/bert-base-uncased-SST-2

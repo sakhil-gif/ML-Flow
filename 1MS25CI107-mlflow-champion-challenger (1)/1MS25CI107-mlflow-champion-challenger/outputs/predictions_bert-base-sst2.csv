@@ -1,0 +1,201 @@
+sample_id,text,reference,prediction,positive_prob,confidence,correct,latency_ms
+s_001,"samira makhmalbaf 's new film blackboards is much like the ethos of a stream of consciousness , although , it 's unfortunate for the viewer that the thoughts and reflections coming through are torpid and banal",negative,negative,0.0024,0.9976,1,112.7
+s_002,"not the kind of film that will appeal to a mainstream american audience , but there is a certain charm about the film that makes it a suitable entry into the fest circuit .",positive,positive,0.9995,0.9995,1,97.9
+s_003,"one of the more irritating cartoons you will see this , or any , year .",negative,negative,0.003,0.997,1,68.7
+s_004,"the best revenge may just be living well because this film , unlike other dumas adaptations , is far more likened to a treasure than a lengthy jail sentence .",positive,positive,0.9979,0.9979,1,89.4
+s_005,"it 's one of those baseball pictures where the hero is stoic , the wife is patient , the kids are as cute as all get-out and the odds against success are long enough to intimidate , but short enough to make a dream seem possible .",positive,positive,0.995,0.995,1,124.8
+s_006,tries to add some spice to its quirky sentiments but the taste is all too familiar .,negative,negative,0.0021,0.9979,1,74.6
+s_007,"it can not be enjoyed , even on the level that one enjoys a bad slasher flick , primarily because it is dull .",negative,negative,0.0007,0.9993,1,83.6
+s_008,"the x potion gives the quickly named blossom , bubbles and buttercup supernatural powers that include extraordinary strength and laser-beam eyes , which unfortunately do n't enable them to discern flimsy screenplays .",negative,negative,0.0263,0.9737,1,108.7
+s_009,"combining quick-cut editing and a blaring heavy metal much of the time , beck seems to be under the illusion that he 's shooting the latest system of a down video .",negative,negative,0.008,0.992,1,117.6
+s_010,"( grant 's ) bumbling magic takes over the film , and it turns out to be another winning star vehicle .",positive,positive,0.9987,0.9987,1,82.1
+s_011,"a tender , heartfelt family drama .",positive,positive,0.9997,0.9997,1,81.4
+s_012,"liotta put on 30 pounds for the role , and has completely transformed himself from his smooth , goodfellas image .",positive,positive,0.9986,0.9986,1,114.0
+s_013,verbinski implements every hack-artist trick to give us the ooky-spookies .,negative,negative,0.4213,0.5787,1,124.9
+s_014,one of the smartest takes on singles culture i 've seen in a long time .,positive,positive,0.9996,0.9996,1,110.8
+s_015,"a full world has been presented onscreen , not some series of carefully structured plot points building to a pat resolution .",positive,negative,0.1917,0.8083,0,217.6
+s_016,jaglom ... put ( s ) the audience in the privileged position of eavesdropping on his characters,positive,positive,0.8081,0.8081,1,210.3
+s_017,the plot convolutions ultimately add up to nothing more than jerking the audience 's chain .,negative,negative,0.0016,0.9984,1,221.9
+s_018,big fat waste of time .,negative,negative,0.0013,0.9987,1,129.4
+s_019,worth watching for dong jie 's performance -- and for the way it documents a culture in the throes of rapid change .,positive,positive,0.9997,0.9997,1,90.7
+s_020,they should have called it gutterball .,negative,negative,0.0021,0.9979,1,57.3
+s_021,a rewarding work of art for only the most patient and challenge-hungry moviegoers .,positive,positive,0.9996,0.9996,1,114.3
+s_022,"further proof that the epicenter of cool , beautiful , thought-provoking foreign cinema is smack-dab in the middle of dubya 's axis of evil .",positive,positive,0.9986,0.9986,1,178.2
+s_023,"( lawrence bounces ) all over the stage , dancing , running , sweating , mopping his face and generally displaying the wacky talent that brought him fame in the first place .",positive,positive,0.673,0.673,1,168.7
+s_024,"care deftly captures the wonder and menace of growing up , but he never really embraces the joy of fuhrman 's destructive escapism or the grace-in-rebellion found by his characters .",negative,negative,0.0173,0.9827,1,105.0
+s_025,"the words , ` frankly , my dear , i do n't give a damn , ' have never been more appropriate .",negative,positive,0.9692,0.9692,0,80.2
+s_026,"the humor is n't as sharp , the effects not as innovative , nor the story as imaginative as in the original .",negative,negative,0.0011,0.9989,1,102.1
+s_027,"for each chuckle there are at least 10 complete misses , many coming from the amazingly lifelike tara reid , whose acting skills are comparable to a cardboard cutout .",negative,negative,0.0223,0.9777,1,257.4
+s_028,no aspirations to social import inform the movie version .,negative,negative,0.0038,0.9962,1,304.6
+s_029,a coarse and stupid gross-out .,negative,negative,0.0007,0.9993,1,202.2
+s_030,we have n't seen such hilarity since say it is n't so !,positive,positive,0.823,0.823,1,273.2
+s_031,"if you 've ever entertained the notion of doing what the title of this film implies , what sex with strangers actually shows may put you off the idea forever .",negative,negative,0.0031,0.9969,1,108.7
+s_032,"at its best , queen is campy fun like the vincent price horror classics of the '60s .",positive,positive,0.999,0.999,1,76.3
+s_033,it 's fascinating to see how bettany and mcdowell play off each other .,positive,positive,0.9996,0.9996,1,71.3
+s_034,"nelson 's brutally unsentimental approach ... sucks the humanity from the film , leaving behind an horrific but weirdly unemotional spectacle .",negative,negative,0.0415,0.9585,1,91.9
+s_035,"once the 50 year old benigni appears as the title character , we find ourselves longing for the block of wood to come back .",negative,negative,0.0308,0.9692,1,85.5
+s_036,"more romantic , more emotional and ultimately more satisfying than the teary-eyed original .",positive,positive,0.9985,0.9985,1,67.3
+s_037,"( w ) hile long on amiable monkeys and worthy environmentalism , jane goodall 's wild chimpanzees is short on the thrills the oversize medium demands .",negative,negative,0.0058,0.9942,1,98.2
+s_038,it 's an offbeat treat that pokes fun at the democratic exercise while also examining its significance for those who take part .,positive,positive,0.9996,0.9996,1,81.3
+s_039,"this one is definitely one to skip , even for horror movie fanatics .",negative,positive,0.9508,0.9508,0,66.4
+s_040,the best that can be said about the work here of scottish director ritchie ... is that he obviously does n't have his heart in it .,negative,negative,0.0028,0.9972,1,90.0
+s_041,"( t ) here 's only so much anyone can do with a florid , overplotted , anne rice rock 'n' roll vampire novel before the built-in silliness of the whole affair defeats them .",negative,negative,0.0015,0.9985,1,110.8
+s_042,"while its careful pace and seemingly opaque story may not satisfy every moviegoer 's appetite , the film 's final scene is soaringly , transparently moving .",positive,positive,0.9995,0.9995,1,93.3
+s_043,blanchett 's performance confirms her power once again .,positive,positive,0.9994,0.9994,1,61.1
+s_044,moretti 's compelling anatomy of grief and the difficult process of adapting to loss .,negative,positive,0.9992,0.9992,0,69.5
+s_045,very psychoanalytical -- provocatively so -- and also refreshingly literary .,positive,positive,0.9996,0.9996,1,71.0
+s_046,"for the most part , it 's a work of incendiary genius , steering clear of knee-jerk reactions and quick solutions .",positive,positive,0.9995,0.9995,1,81.2
+s_047,"may be far from the best of the series , but it 's assured , wonderfully respectful of its past and thrilling enough to make it abundantly clear that this movie phenomenon has once again reinvented itself for a new generation .",positive,positive,0.9996,0.9996,1,108.7
+s_048,"for the most part , director anne-sophie birot 's first feature is a sensitive , extraordinarily well-acted drama .",positive,positive,0.9997,0.9997,1,82.9
+s_049,it 's great escapist fun that recreates a place and time that will never happen again .,positive,positive,0.9997,0.9997,1,74.7
+s_050,"preaches to two completely different choirs at the same time , which is a pretty amazing accomplishment .",positive,positive,0.9994,0.9994,1,72.1
+s_051,"( serry ) wants to blend politics and drama , an admirable ambition .",positive,positive,0.9992,0.9992,1,70.9
+s_052,"this time mr. burns is trying something in the martin scorsese street-realist mode , but his self-regarding sentimentality trips him up again .",negative,negative,0.0195,0.9805,1,88.2
+s_053,villeneuve spends too much time wallowing in bibi 's generic angst ( there are a lot of shots of her gazing out windows ) .,negative,negative,0.0028,0.9972,1,86.1
+s_054,"dazzles with its fully-written characters , its determined stylishness ( which always relates to characters and story ) and johnny dankworth 's best soundtrack in years .",positive,positive,0.9998,0.9998,1,96.2
+s_055,"a delectable and intriguing thriller filled with surprises , read my lips is an original .",positive,positive,0.9997,0.9997,1,73.5
+s_056,"crackerjack entertainment -- nonstop romance , music , suspense and action .",positive,positive,0.9996,0.9996,1,66.5
+s_057,"this is a story of two misfits who do n't stand a chance alone , but together they are magnificent .",positive,positive,0.9997,0.9997,1,82.3
+s_058,"the man from elysian fields is a cold , bliss-less work that groans along thinking itself some important comment on how life throws us some beguiling curves .",negative,negative,0.0127,0.9873,1,94.2
+s_059,"the band 's courage in the face of official repression is inspiring , especially for aging hippies ( this one included ) .",positive,positive,0.999,0.999,1,83.4
+s_060,"the film is beautifully mounted , but , more to the point , the issues are subtly presented , managing to walk a fine line with regard to the question of joan 's madness .",positive,positive,0.9993,0.9993,1,100.4
+s_061,the movie understands like few others how the depth and breadth of emotional intimacy give the physical act all of its meaning and most of its pleasure .,positive,positive,0.9986,0.9986,1,85.9
+s_062,the talented and clever robert rodriguez perhaps put a little too much heart into his first film and did n't reserve enough for his second .,negative,negative,0.3501,0.6499,1,86.4
+s_063,this riveting world war ii moral suspense story deals with the shadow side of american culture : racial prejudice in its ugly and diverse forms .,negative,positive,0.9991,0.9991,0,86.1
+s_064,burns never really harnesses to full effect the energetic cast .,negative,negative,0.0069,0.9931,1,63.6
+s_065,if you dig on david mamet 's mind tricks ... rent this movie and enjoy !,positive,positive,0.9993,0.9993,1,78.0
+s_066,a romantic comedy enriched by a sharp eye for manners and mores .,positive,positive,0.9997,0.9997,1,67.9
+s_067,puts a human face on a land most westerners are unfamiliar with .,positive,positive,0.9991,0.9991,1,67.0
+s_068,but it could have been worse .,negative,negative,0.0068,0.9932,1,62.0
+s_069,"the film flat lines when it should peak and is more missed opportunity and trifle than dark , decadent truffle .",negative,negative,0.0023,0.9977,1,83.7
+s_070,it offers little beyond the momentary joys of pretty and weightless intellectual entertainment .,negative,negative,0.1103,0.8897,1,67.4
+s_071,zaidan 's script has barely enough plot to string the stunts together and not quite enough characterization to keep the faces straight .,negative,negative,0.0008,0.9992,1,82.0
+s_072,"not only are the special effects and narrative flow much improved , and daniel radcliffe more emotionally assertive this time around as harry , but the film conjures the magic of author j.k. rowling 's books .",positive,positive,0.9997,0.9997,1,105.7
+s_073,"this is the sort of burly action flick where one coincidence pummels another , narrative necessity is a drunken roundhouse , and whatever passes for logic is a factor of the last plot device left standing .",negative,negative,0.0014,0.9986,1,102.5
+s_074,"dragonfly has no atmosphere , no tension -- nothing but costner , flailing away .",negative,negative,0.0067,0.9933,1,73.6
+s_075,there 's not enough here to justify the almost two hours .,negative,negative,0.0017,0.9983,1,63.3
+s_076,"thanks to haynes ' absolute control of the film 's mood , and buoyed by three terrific performances , far from heaven actually pulls off this stylistic juggling act .",positive,positive,0.9997,0.9997,1,92.1
+s_077,the experience of going to a film festival is a rewarding one ; the experiencing of sampling one through this movie is not .,negative,positive,0.8151,0.8151,0,81.8
+s_078,this surreal gilliam-esque film is also a troubling interpretation of ecclesiastes .,positive,negative,0.2989,0.7011,0,76.8
+s_079,"it 's so mediocre , despite the dynamic duo on the marquee , that we just ca n't get no satisfaction .",negative,negative,0.0008,0.9992,1,89.7
+s_080,there 's enough melodrama in this magnolia primavera to make pta proud yet director muccino 's characters are less worthy of puccini than they are of daytime television .,negative,negative,0.0232,0.9768,1,102.0
+s_081,cq 's reflection of artists and the love of cinema-and-self suggests nothing less than a new voice that deserves to be considered as a possible successor to the best european directors .,positive,positive,0.9993,0.9993,1,99.7
+s_082,"there seems to be no clear path as to where the story 's going , or how long it 's going to take to get there .",negative,negative,0.0013,0.9987,1,88.3
+s_083,rarely has leukemia looked so shimmering and benign .,negative,positive,0.665,0.665,0,58.0
+s_084,"the film is powerful , accessible and funny .",positive,positive,0.9998,0.9998,1,56.6
+s_085,like you could n't smell this turkey rotting from miles away .,negative,negative,0.0063,0.9937,1,64.8
+s_086,a movie with a real anarchic flair .,positive,positive,0.9997,0.9997,1,60.3
+s_087,i can take infantile humor ... but this is the sort of infantile that makes you wonder about changing the director and writer 's diapers .,negative,negative,0.0066,0.9934,1,91.0
+s_088,"with virtually no interesting elements for an audience to focus on , chelsea walls is a triple-espresso endurance challenge .",negative,negative,0.0101,0.9899,1,81.0
+s_089,"on the whole , the movie lacks wit , feeling and believability to compensate for its incessant coarseness and banality .",negative,negative,0.0008,0.9992,1,86.4
+s_090,this flick is about as cool and crowd-pleasing as a documentary can get .,positive,negative,0.0069,0.9931,0,74.1
+s_091,"while undisputed is n't exactly a high , it is a gripping , tidy little movie that takes mr. hill higher than he 's been in a while .",positive,positive,0.9995,0.9995,1,103.2
+s_092,"wince-inducing dialogue , thrift-shop costumes , prosthetic makeup by silly putty and kmart blue-light-special effects all conspire to test trekkie loyalty .",negative,negative,0.012,0.988,1,98.0
+s_093,"at a time when half the so-called real movies are little more than live-action cartoons , it 's refreshing to see a cartoon that knows what it is , and knows the form 's history .",positive,positive,0.9994,0.9994,1,108.2
+s_094,"forced , familiar and thoroughly condescending .",negative,negative,0.0009,0.9991,1,56.0
+s_095,a woman 's pic directed with resonance by ilya chaiken .,positive,positive,0.9988,0.9988,1,71.0
+s_096,"a simple , but gritty and well-acted ensemble drama that encompasses a potent metaphor for a country still dealing with its fascist past .",positive,positive,0.9997,0.9997,1,88.8
+s_097,holden caulfield did it better .,negative,positive,0.9943,0.9943,0,56.6
+s_098,the piece plays as well as it does thanks in large measure to anspaugh 's three lead actresses .,positive,positive,0.9995,0.9995,1,85.3
+s_099,more whiny downer than corruscating commentary .,negative,negative,0.0026,0.9974,1,69.1
+s_100,a giggle-inducing comedy with snappy dialogue and winning performances by an unlikely team of oscar-winners : susan sarandon and goldie hawn .,positive,positive,0.9997,0.9997,1,90.5
+s_101,"dull , lifeless , and amateurishly assembled .",negative,negative,0.0007,0.9993,1,57.6
+s_102,"another one of those estrogen overdose movies like `` divine secrets of the ya ya sisterhood , '' except that the writing , acting and character development are a lot better .",positive,negative,0.0529,0.9471,0,108.5
+s_103,"like mike is a winner for kids , and no doubt a winner for lil bow wow , who can now add movies to the list of things he does well .",positive,positive,0.9993,0.9993,1,87.7
+s_104,if steven soderbergh 's ` solaris ' is a failure it is a glorious failure .,positive,negative,0.4141,0.5859,0,83.6
+s_105,"`` mostly martha '' is a bright , light modern day family parable that wears its heart on its sleeve for all to see .",positive,positive,0.9996,0.9996,1,88.8
+s_106,"what 's surprising about full frontal is that despite its overt self-awareness , parts of the movie still manage to break past the artifice and thoroughly engage you .",positive,positive,0.9991,0.9991,1,87.6
+s_107,the draw ( for `` big bad love '' ) is a solid performance by arliss howard .,positive,positive,0.9996,0.9996,1,81.6
+s_108,"whaley 's determination to immerse you in sheer , unrelenting wretchedness is exhausting .",negative,negative,0.0065,0.9935,1,76.6
+s_109,"drops you into a dizzying , volatile , pressure-cooker of a situation that quickly snowballs out of control , while focusing on the what much more than the why .",positive,negative,0.0669,0.9331,0,95.7
+s_110,"as a rumor of angels reveals itself to be a sudsy tub of supernatural hokum , not even ms. redgrave 's noblest efforts can redeem it from hopeless sentimentality .",negative,negative,0.0019,0.9981,1,102.9
+s_111,"despite all evidence to the contrary , this clunker has somehow managed to pose as an actual feature movie , the kind that charges full admission and gets hyped on tv and purports to amuse small children and ostensible adults .",negative,negative,0.0153,0.9847,1,117.5
+s_112,the cold turkey would 've been a far better title .,negative,negative,0.013,0.987,1,63.6
+s_113,another in-your-face wallow in the lower depths made by people who have never sung those blues .,negative,negative,0.0289,0.9711,1,73.4
+s_114,so devoid of any kind of intelligible story that it makes films like xxx and collateral damage seem like thoughtful treatises,negative,negative,0.0021,0.9979,1,79.5
+s_115,"less dizzying than just dizzy , the jaunt is practically over before it begins .",negative,negative,0.1382,0.8618,1,71.8
+s_116,a beguiling splash of pastel colors and prankish comedy from disney .,positive,positive,0.9996,0.9996,1,64.7
+s_117,serving sara does n't serve up a whole lot of laughs .,negative,negative,0.001,0.999,1,62.1
+s_118,"pumpkin means to be an outrageous dark satire on fraternity life , but its ambitions far exceed the abilities of writer adam larson broder and his co-director , tony r. abrams , in their feature debut .",negative,negative,0.02,0.98,1,104.7
+s_119,it 's the chemistry between the women and the droll scene-stealing wit and wolfish pessimism of anna chancellor that makes this `` two weddings and a funeral '' fun .,positive,positive,0.9995,0.9995,1,98.4
+s_120,"a disappointment for those who love alternate versions of the bard , particularly ones that involve deep fryers and hamburgers .",negative,negative,0.0019,0.9981,1,80.8
+s_121,"there is nothing outstanding about this film , but it is good enough and will likely be appreciated most by sailors and folks who know their way around a submarine .",positive,positive,0.9977,0.9977,1,89.9
+s_122,"about a manga-like heroine who fights back at her abusers , it 's energetic and satisfying if not deep and psychological .",positive,positive,0.9997,0.9997,1,80.4
+s_123,i had to look away - this was god awful .,negative,negative,0.0047,0.9953,1,64.2
+s_124,no one but a convict guilty of some truly heinous crime should have to sit through the master of disguise .,negative,negative,0.021,0.979,1,77.1
+s_125,"given how heavy-handed and portent-heavy it is , this could be the worst thing soderbergh has ever done .",negative,negative,0.0012,0.9988,1,81.6
+s_126,"the movie has an infectious exuberance that will engage anyone with a passing interest in the skate/surf culture , the l.a. beach scene and the imaginative ( and sometimes illegal ) ways kids can make a playground out of the refuse of adults .",positive,positive,0.9995,0.9995,1,114.7
+s_127,"excessive , profane , packed with cartoonish violence and comic-strip characters .",negative,negative,0.0027,0.9973,1,68.8
+s_128,american chai encourages rueful laughter at stereotypes only an indian-american would recognize .,negative,positive,0.9893,0.9893,0,68.8
+s_129,at once half-baked and overheated .,negative,negative,0.0063,0.9937,1,61.1
+s_130,... is an arthritic attempt at directing by callie khouri .,negative,negative,0.0031,0.9969,1,70.4
+s_131,... nothing scary here except for some awful acting and lame special effects .,negative,negative,0.0008,0.9992,1,68.7
+s_132,a subtle and well-crafted ( for the most part ) chiller .,positive,positive,0.9996,0.9996,1,65.4
+s_133,it wants to tweak them with a taste of tangy new humor .,positive,positive,0.9759,0.9759,1,65.3
+s_134,like watching a dress rehearsal the week before the show goes up : everything 's in place but something 's just a little off-kilter .,negative,negative,0.0026,0.9974,1,86.7
+s_135,holm ... embodies the character with an effortlessly regal charisma .,positive,positive,0.9996,0.9996,1,68.6
+s_136,it 's everything you do n't go to the movies for .,negative,positive,0.999,0.999,0,63.3
+s_137,trademark american triteness and simplicity are tossed out the window with the intelligent french drama that deftly explores the difficult relationship between a father and son .,positive,positive,0.999,0.999,1,86.3
+s_138,"in the end , we are left with something like two ships passing in the night rather than any insights into gay love , chinese society or the price one pays for being dishonest .",negative,negative,0.0038,0.9962,1,95.4
+s_139,... a hollow joke told by a cinematic gymnast having too much fun embellishing the misanthropic tale to actually engage it .,negative,negative,0.0015,0.9985,1,85.7
+s_140,... turns so unforgivably trite in its last 10 minutes that anyone without a fortified sweet tooth will likely go into sugar shock .,negative,negative,0.0015,0.9985,1,85.5
+s_141,"the title not only describes its main characters , but the lazy people behind the camera as well .",negative,negative,0.0135,0.9865,1,69.3
+s_142,huston nails both the glad-handing and the choking sense of hollow despair .,positive,positive,0.9618,0.9618,1,63.9
+s_143,"hardly a masterpiece , but it introduces viewers to a good charitable enterprise and some interesting real people .",positive,positive,0.9996,0.9996,1,67.8
+s_144,sam mendes has become valedictorian at the school for soft landings and easy ways out .,negative,positive,0.9795,0.9795,0,69.6
+s_145,"pumpkin takes an admirable look at the hypocrisy of political correctness , but it does so with such an uneven tone that you never know when humor ends and tragedy begins .",negative,negative,0.0579,0.9421,1,96.0
+s_146,"far more imaginative and ambitious than the trivial , cash-in features nickelodeon has made from its other animated tv series .",positive,positive,0.9993,0.9993,1,76.7
+s_147,a delightful coming-of-age story .,positive,positive,0.9998,0.9998,1,55.4
+s_148,has a lot of the virtues of eastwood at his best .,positive,positive,0.9997,0.9997,1,64.4
+s_149,"it has its moments of swaggering camaraderie , but more often just feels generic , derivative and done to death .",negative,negative,0.0011,0.9989,1,81.5
+s_150,"the old-world - meets-new mesh is incarnated in the movie 's soundtrack , a joyful effusion of disco bollywood that , by the end of monsoon wedding , sent my spirit soaring out of the theater .",positive,positive,0.9996,0.9996,1,107.7
+s_151,sade is an engaging look at the controversial eponymous and fiercely atheistic hero .,positive,positive,0.999,0.999,1,64.1
+s_152,"the lion king was a roaring success when it was released eight years ago , but on imax it seems better , not just bigger .",positive,positive,0.9789,0.9789,1,80.8
+s_153,the film 's performances are thrilling .,positive,positive,0.9997,0.9997,1,55.4
+s_154,manages to be sweet and wickedly satisfying at the same time .,positive,positive,0.9984,0.9984,1,61.3
+s_155,"an overemphatic , would-be wacky , ultimately tedious sex farce .",negative,negative,0.0013,0.9987,1,69.4
+s_156,one from the heart .,positive,positive,0.9982,0.9982,1,39.0
+s_157,"it feels like an after-school special gussied up with some fancy special effects , and watching its rote plot points connect is about as exciting as gazing at an egg timer for 93 minutes .",negative,negative,0.0015,0.9985,1,100.0
+s_158,a literate presentation that wonderfully weaves a murderous event in 1873 with murderous rage in 2002 .,positive,positive,0.9996,0.9996,1,74.4
+s_159,it deserves to be seen by anyone with even a passing interest in the events shaping the world beyond their own horizons .,positive,positive,0.7769,0.7769,1,75.1
+s_160,"we know the plot 's a little crazy , but it held my interest from start to finish .",positive,positive,0.9981,0.9981,1,73.5
+s_161,"challenging , intermittently engrossing and unflaggingly creative .",positive,positive,0.9989,0.9989,1,63.7
+s_162,"as the two leads , lathan and diggs are charming and have chemistry both as friends and lovers .",positive,positive,0.9996,0.9996,1,72.1
+s_163,"instead of hiding pinocchio from critics , miramax should have hidden it from everyone .",negative,negative,0.0119,0.9881,1,68.6
+s_164,"delivers the same old same old , tarted up with latin flava and turned out by hollywood playas .",negative,negative,0.0094,0.9906,1,76.8
+s_165,the best film about baseball to hit theaters since field of dreams .,positive,positive,0.9997,0.9997,1,61.4
+s_166,"/ but daphne , you 're too buff / fred thinks he 's tough / and velma - wow , you 've lost weight !",negative,negative,0.0427,0.9573,1,86.0
+s_167,a solid film ... but more conscientious than it is truly stirring .,positive,negative,0.1115,0.8885,0,72.5
+s_168,"it 's not that kung pow is n't funny some of the time -- it just is n't any funnier than bad martial arts movies are all by themselves , without all oedekerk 's impish augmentation .",negative,negative,0.0014,0.9986,1,114.5
+s_169,there is no pleasure in watching a child suffer .,negative,negative,0.0085,0.9915,1,60.9
+s_170,this movie seems to have been written using mad-libs .,negative,negative,0.0011,0.9989,1,64.9
+s_171,"a lean , deftly shot , well-acted , weirdly retro thriller that recalls a raft of '60s and '70s european-set spy pictures .",positive,positive,0.9997,0.9997,1,87.6
+s_172,"the entire movie is about a boring , sad man being boring and sad .",negative,negative,0.0019,0.9981,1,64.9
+s_173,not exactly the bees knees,negative,negative,0.0142,0.9858,1,42.6
+s_174,"like leon , it 's frustrating and still oddly likable .",positive,positive,0.9993,0.9993,1,62.9
+s_175,"it 's inoffensive , cheerful , built to inspire the young people , set to an unending soundtrack of beach party pop numbers and aside from its remarkable camerawork and awesome scenery , it 's about as exciting as a sunburn .",negative,negative,0.087,0.913,1,112.1
+s_176,people cinema at its finest .,positive,positive,0.9992,0.9992,1,37.3
+s_177,"his last movie was poetically romantic and full of indelible images , but his latest has nothing going for it .",negative,negative,0.0015,0.9985,1,79.5
+s_178,"( t ) his beguiling belgian fable , very much its own droll and delicate little film , has some touching things to say about what is important in life and why .",positive,positive,0.9993,0.9993,1,97.3
+s_179,not since tom cruise in risky business has an actor made such a strong impression in his underwear .,positive,negative,0.291,0.709,0,72.7
+s_180,"offers very little genuine romance and even fewer laughs ... a sad sitcom of a movie , largely devoid of charm .",negative,negative,0.0007,0.9993,1,82.6
+s_181,the affectionate loopiness that once seemed congenital to demme 's perspective has a tough time emerging from between the badly dated cutesy-pie mystery scenario and the newfangled hollywood post-production effects .,negative,negative,0.0023,0.9977,1,105.4
+s_182,montias ... pumps a lot of energy into his nicely nuanced narrative and surrounds himself with a cast of quirky -- but not stereotyped -- street characters .,positive,positive,0.9996,0.9996,1,99.2
+s_183,binoche makes it interesting trying to find out .,positive,positive,0.9993,0.9993,1,57.3
+s_184,"the reality of the new live-action pinocchio he directed , cowrote and starred in borders on the grotesque .",negative,negative,0.1744,0.8256,1,78.7
+s_185,"it takes a certain kind of horror movie to qualify as ` worse than expected , ' but ghost ship somehow manages to do exactly that .",negative,positive,0.8071,0.8071,0,82.2
+s_186,"the film is quiet , threatening and unforgettable .",positive,positive,0.9964,0.9964,1,64.9
+s_187,"slapstick buffoonery can tickle many a preschooler 's fancy , but when it costs a family of four about $ 40 to see a film in theaters , why spend money on a dog like this when you can rent a pedigree instead ?",negative,negative,0.0069,0.9931,1,117.1
+s_188,"green might want to hang onto that ski mask , as robbery may be the only way to pay for his next project .",negative,negative,0.0053,0.9947,1,81.6
+s_189,"still , as a visual treat , the film is almost unsurpassed .",positive,positive,0.997,0.997,1,67.0
+s_190,if your taste runs to ` difficult ' films you absolutely ca n't miss it .,positive,positive,0.9974,0.9974,1,73.2
+s_191,"a warm but realistic meditation on friendship , family and affection .",positive,positive,0.9994,0.9994,1,64.0
+s_192,the fly-on-the-wall method used to document rural french school life is a refreshing departure from the now more prevalent technique of the docu-makers being a visible part of their work .,positive,positive,0.9991,0.9991,1,99.9
+s_193,"the film is based on truth and yet there is something about it that feels incomplete , as if the real story starts just around the corner .",negative,negative,0.014,0.986,1,83.5
+s_194,"the result is a gaudy bag of stale candy , something from a halloween that died .",negative,negative,0.0012,0.9988,1,71.2
+s_195,my wife is an actress is an utterly charming french comedy that feels so american in sensibility and style it 's virtually its own hollywood remake .,positive,positive,0.9995,0.9995,1,86.1
+s_196,"what really makes it special is that it pulls us into its world , gives us a hero whose suffering and triumphs we can share , surrounds him with interesting characters and sends us out of the theater feeling we 've shared a great adventure .",positive,positive,0.9998,0.9998,1,111.4
+s_197,"in an effort , i suspect , not to offend by appearing either too serious or too lighthearted , it offends by just being wishy-washy .",negative,negative,0.0043,0.9957,1,91.8
+s_198,"despite its title , punch-drunk love is never heavy-handed .",positive,positive,0.9986,0.9986,1,64.9
+s_199,"a study in shades of gray , offering itself up in subtle plot maneuvers ...",positive,positive,0.984,0.984,1,69.8
+s_200,"suffocated by its fussy script and uptight characters , this musty adaptation is all the more annoying since it 's been packaged and sold back to us by hollywood .",negative,negative,0.0007,0.9993,1,97.8

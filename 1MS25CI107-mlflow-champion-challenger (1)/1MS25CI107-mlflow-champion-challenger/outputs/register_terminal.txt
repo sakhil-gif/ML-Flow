@@ -1,0 +1,15 @@
+Successfully registered model '1MS25CI107-sentiment-model'.
+2026/11/20 14:01:22 WARNING mlflow.tracking._model_registry.fluent: Run with id 804dc650b807482092c0970b475075a3 has no artifacts at artifact path 'model', registering model based on models:/m-4bc2191b2f814ab99e09288047edb418 instead
+2026/11/20 14:01:22 INFO mlflow.store.model_registry.abstract_store: Waiting up to 300 seconds for model version to finish creation. Model name: 1MS25CI107-sentiment-model, version 1
+Created version '1' of model '1MS25CI107-sentiment-model'.
+Registered model '1MS25CI107-sentiment-model' already exists. Creating a new version of this model...
+2026/11/20 14:01:23 WARNING mlflow.tracking._model_registry.fluent: Run with id 247f7b0ea43244039fa5678621ff224d has no artifacts at artifact path 'model', registering model based on models:/m-1674f099269740c68b5a89c1d9726333 instead
+2026/11/20 14:01:23 INFO mlflow.store.model_registry.abstract_store: Waiting up to 300 seconds for model version to finish creation. Model name: 1MS25CI107-sentiment-model, version 2
+Created version '2' of model '1MS25CI107-sentiment-model'.
+Comparison run: 58c6170d5f2f4eb6bfa806518eb2cc44  winner tag = A_distilbert-sst2
+Reason: |delta macro-F1| 0.51 < 2.0, faster model kept
+Registered A_sentiment_distilbert-sst2      -> 1MS25CI107-sentiment-model v1
+Registered B_sentiment_bert-base-sst2       -> 1MS25CI107-sentiment-model v2
+
+@champion   -> v1  distilbert-base-uncased-finetuned-sst-2-english
+@challenger -> v2  textattack/bert-base-uncased-SST-2

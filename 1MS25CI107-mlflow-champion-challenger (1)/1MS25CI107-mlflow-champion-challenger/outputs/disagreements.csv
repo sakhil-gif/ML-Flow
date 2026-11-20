@@ -1,0 +1,14 @@
+sample_id,text,reference,pred_A,conf_A,pred_B,conf_B
+s_016,jaglom ... put ( s ) the audience in the privileged position of eavesdropping on his characters,positive,negative,0.9961,positive,0.8081
+s_025,"the words , ` frankly , my dear , i do n't give a damn , ' have never been more appropriate .",negative,negative,0.932,positive,0.9692
+s_030,we have n't seen such hilarity since say it is n't so !,positive,negative,0.9447,positive,0.823
+s_039,"this one is definitely one to skip , even for horror movie fanatics .",negative,negative,0.8616,positive,0.9508
+s_040,the best that can be said about the work here of scottish director ritchie ... is that he obviously does n't have his heart in it .,negative,positive,0.8562,negative,0.9972
+s_052,"this time mr. burns is trying something in the martin scorsese street-realist mode , but his self-regarding sentimentality trips him up again .",negative,positive,0.9759,negative,0.9805
+s_078,this surreal gilliam-esque film is also a troubling interpretation of ecclesiastes .,positive,positive,0.9599,negative,0.7011
+s_113,another in-your-face wallow in the lower depths made by people who have never sung those blues .,negative,positive,0.7811,negative,0.9711
+s_118,"pumpkin means to be an outrageous dark satire on fraternity life , but its ambitions far exceed the abilities of writer adam larson broder and his co-director , tony r. abrams , in their feature debut .",negative,positive,0.9203,negative,0.98
+s_167,a solid film ... but more conscientious than it is truly stirring .,positive,positive,0.9996,negative,0.8885
+s_179,not since tom cruise in risky business has an actor made such a strong impression in his underwear .,positive,positive,0.8139,negative,0.709
+s_184,"the reality of the new live-action pinocchio he directed , cowrote and starred in borders on the grotesque .",negative,positive,0.9857,negative,0.8256
+s_185,"it takes a certain kind of horror movie to qualify as ` worse than expected , ' but ghost ship somehow manages to do exactly that .",negative,negative,0.9889,positive,0.8071

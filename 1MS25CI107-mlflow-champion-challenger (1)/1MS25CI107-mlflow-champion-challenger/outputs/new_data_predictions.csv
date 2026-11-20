@@ -1,0 +1,9 @@
+sample_id,text,expected,prediction,positive_prob,confidence,model_version,hf_model_id
+new_001,The canteen dosa at Ramaiah is crispy and the chutney is fresh every single morning.,positive,positive,0.9968,0.9968,1,distilbert-base-uncased-finetuned-sst-2-english
+new_002,I waited forty minutes for the bus to Mathikere and it never showed up.,negative,negative,0.0003,0.9997,1,distilbert-base-uncased-finetuned-sst-2-english
+new_003,"The MLflow UI looked confusing at first, but once I understood runs and aliases it made a lot of sense.",positive,negative,0.0168,0.9832,1,distilbert-base-uncased-finetuned-sst-2-english
+new_004,"Oh great, another power cut right before the lab submission deadline.",negative,positive,0.9814,0.9814,1,distilbert-base-uncased-finetuned-sst-2-english
+new_005,The movie was not as bad as the critics made it sound.,positive,positive,0.996,0.996,1,distilbert-base-uncased-finetuned-sst-2-english
+new_006,The new phone's battery barely lasts half a day and it heats up while charging.,negative,negative,0.1063,0.8937,1,distilbert-base-uncased-finetuned-sst-2-english
+new_007,"Honestly, the hostel food this semester has been surprisingly good.",positive,positive,0.9997,0.9997,1,distilbert-base-uncased-finetuned-sst-2-english
+new_008,"The plot had potential, but the second half dragged on and the ending made no sense.",negative,negative,0.0002,0.9998,1,distilbert-base-uncased-finetuned-sst-2-english

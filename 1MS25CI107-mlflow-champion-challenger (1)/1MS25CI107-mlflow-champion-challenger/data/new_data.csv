@@ -1,0 +1,9 @@
+sample_id,text,expected
+new_001,The canteen dosa at Ramaiah is crispy and the chutney is fresh every single morning.,positive
+new_002,I waited forty minutes for the bus to Mathikere and it never showed up.,negative
+new_003,"The MLflow UI looked confusing at first, but once I understood runs and aliases it made a lot of sense.",positive
+new_004,"Oh great, another power cut right before the lab submission deadline.",negative
+new_005,The movie was not as bad as the critics made it sound.,positive
+new_006,The new phone's battery barely lasts half a day and it heats up while charging.,negative
+new_007,"Honestly, the hostel food this semester has been surprisingly good.",positive
+new_008,"The plot had potential, but the second half dragged on and the ending made no sense.",negative
